@@ -1,5 +1,5 @@
 # hello-world
-Being a good newbie and working through the exercise
+I'm just being a good newbie.
 
 Hi All,
 Thanks for having me. I'm a retired engineer and have discovered the world of Ardruino, Wemos D1, and Android.
